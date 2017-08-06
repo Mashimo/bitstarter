@@ -7,4 +7,4 @@ You can see it in action [on Heroku](https://omnimorph.herokuapp.com/).
 
 Not maintained anymore.
 
-![Omnimorph page](omnimorph.png)
+![Omnimorph page](Omnimorph.png)
