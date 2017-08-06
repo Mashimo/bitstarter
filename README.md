@@ -1,4 +1,9 @@
 bitstarter
 ==========
 
-An extremely simple crowdfunding site, developed for Stanford CS184 - Startup Engineering
+An extremely simple crowdfunding site, based on Bootstrap (HTML5, CSS3, Javascript) framework.
+
+You can see it in action [on Heroku](https://omnimorph.herokuapp.com/).
+
+Not maintained anymore.
+
